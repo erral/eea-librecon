@@ -53,7 +53,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 - Proveer información independiente sobre el medio ambiente
 - Ayudar en el desarrollo sostenible
 - Dar información relevante a los agentes políticos y público
-- 32 países + colaboradores : UE + Noruega + Islandia + Turquía + UK + balcanes
+- 32 países + colaboradores : UE + Noruega + Suiza + Islandia + UK + Turquía + Balcanes (colaboradores)
 
 <br/>
 <img src="/eealogo-web.png" />
